@@ -1,1 +1,0 @@
-# Tint-Installation-Shop-Manager
